@@ -274,9 +274,6 @@
 }
 
 @media(max-width: 500px) {
-    body {
-        background-color: yellow;
-    }
     .navdad {
         flex-direction: column;
         line-height: 2.5em;
